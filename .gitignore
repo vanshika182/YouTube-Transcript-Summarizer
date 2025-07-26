@@ -3,6 +3,7 @@ venv/
 .venv/
 env/
 venv310/  # Your specific virtual environment identified in the error
+venv_project/
 
 # Compiled Python files and cache directories
 *.pyc
