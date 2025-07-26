@@ -1,0 +1,987 @@
+[
+    {
+        "text": "I read a lot of technical documents and",
+        "start": 0.08,
+        "duration": 5.199
+    },
+    {
+        "text": "PDFs and research papers but sometimes I",
+        "start": 2.0,
+        "duration": 5.04
+    },
+    {
+        "text": "just don't have enough time to read",
+        "start": 5.279,
+        "duration": 3.681
+    },
+    {
+        "text": "through them. I want to listen them",
+        "start": 7.04,
+        "duration": 4.32
+    },
+    {
+        "text": "while I'm walking or while I'm doing",
+        "start": 8.96,
+        "duration": 4.16
+    },
+    {
+        "text": "gym. I believe you would also have faced",
+        "start": 11.36,
+        "duration": 3.439
+    },
+    {
+        "text": "that if you are a developer. So I",
+        "start": 13.12,
+        "duration": 3.44
+    },
+    {
+        "text": "thought why don't build a tool which",
+        "start": 14.799,
+        "duration": 3.521
+    },
+    {
+        "text": "actually does this. I just give it a",
+        "start": 16.56,
+        "duration": 4.16
+    },
+    {
+        "text": "link or PDF or even some even some links",
+        "start": 18.32,
+        "duration": 3.84
+    },
+    {
+        "text": "like Stack Overflow, some GitHub",
+        "start": 20.72,
+        "duration": 3.04
+    },
+    {
+        "text": "repositories so that I can just",
+        "start": 22.16,
+        "duration": 4.56
+    },
+    {
+        "text": "summarize whatever is in them and then",
+        "start": 23.76,
+        "duration": 5.2
+    },
+    {
+        "text": "finally just hear them instead of",
+        "start": 26.72,
+        "duration": 3.92
+    },
+    {
+        "text": "reading through everything. For this",
+        "start": 28.96,
+        "duration": 4.24
+    },
+    {
+        "text": "what I used is I used Gemini to",
+        "start": 30.64,
+        "duration": 6.32
+    },
+    {
+        "text": "summarize the content of the URL of a",
+        "start": 33.2,
+        "duration": 7.359
+    },
+    {
+        "text": "PDF. It summarizes it into a text in the",
+        "start": 36.96,
+        "duration": 5.52
+    },
+    {
+        "text": "form of podcast. I have given it a",
+        "start": 40.559,
+        "duration": 3.281
+    },
+    {
+        "text": "prompt. You can change the prompt",
+        "start": 42.48,
+        "duration": 2.88
+    },
+    {
+        "text": "yourself because I'll open source the",
+        "start": 43.84,
+        "duration": 3.199
+    },
+    {
+        "text": "repository. Once I've converted and",
+        "start": 45.36,
+        "duration": 5.199
+    },
+    {
+        "text": "summarized this, I f it to Murphy. So",
+        "start": 47.039,
+        "duration": 5.36
+    },
+    {
+        "text": "Murphy, if you don't know about it, it's",
+        "start": 50.559,
+        "duration": 3.761
+    },
+    {
+        "text": "a really cool tool, especially if you're",
+        "start": 52.399,
+        "duration": 3.201
+    },
+    {
+        "text": "looking to create highquality",
+        "start": 54.32,
+        "duration": 3.44
+    },
+    {
+        "text": "voiceovers. Stand out because of its",
+        "start": 55.6,
+        "duration": 4.4
+    },
+    {
+        "text": "huge library of ultra realistic voices",
+        "start": 57.76,
+        "duration": 4.479
+    },
+    {
+        "text": "which you can use to create whatever you",
+        "start": 60.0,
+        "duration": 4.879
+    },
+    {
+        "text": "want to. It can be storytelling videos,",
+        "start": 62.239,
+        "duration": 4.081
+    },
+    {
+        "text": "it can be podcast, you can even fine",
+        "start": 64.879,
+        "duration": 3.361
+    },
+    {
+        "text": "tune the pitch, the speed. Also, it has",
+        "start": 66.32,
+        "duration": 5.36
+    },
+    {
+        "text": "99.38% pronunciation accuracy. So it's a",
+        "start": 68.24,
+        "duration": 5.28
+    },
+    {
+        "text": "really great tool. I have also used it",
+        "start": 71.68,
+        "duration": 3.52
+    },
+    {
+        "text": "in the past for many purposes. It has",
+        "start": 73.52,
+        "duration": 3.68
+    },
+    {
+        "text": "multiple features. They can convert text",
+        "start": 75.2,
+        "duration": 4.08
+    },
+    {
+        "text": "to speech. They can do voice changing.",
+        "start": 77.2,
+        "duration": 4.559
+    },
+    {
+        "text": "For example, if you want to change voice",
+        "start": 79.28,
+        "duration": 4.4
+    },
+    {
+        "text": "of a particular video. Now, I have used",
+        "start": 81.759,
+        "duration": 3.841
+    },
+    {
+        "text": "Murfair in the past for other purposes",
+        "start": 83.68,
+        "duration": 4.16
+    },
+    {
+        "text": "also. For example, changing voice. But",
+        "start": 85.6,
+        "duration": 4.48
+    },
+    {
+        "text": "one good feature which I like about",
+        "start": 87.84,
+        "duration": 5.599
+    },
+    {
+        "text": "MV.AI is that they provide API also",
+        "start": 90.08,
+        "duration": 5.999
+    },
+    {
+        "text": "through which I can do this texttospech",
+        "start": 93.439,
+        "duration": 4.561
+    },
+    {
+        "text": "conversion. That's why I was able to use",
+        "start": 96.079,
+        "duration": 4.08
+    },
+    {
+        "text": "it to make this. I will be showing the",
+        "start": 98.0,
+        "duration": 4.24
+    },
+    {
+        "text": "complete workflow of how I build it and",
+        "start": 100.159,
+        "duration": 3.92
+    },
+    {
+        "text": "how I am actually converting these",
+        "start": 102.24,
+        "duration": 3.519
+    },
+    {
+        "text": "documents into a podcast which I can",
+        "start": 104.079,
+        "duration": 4.161
+    },
+    {
+        "text": "listen to anywhere or anytime whenever I",
+        "start": 105.759,
+        "duration": 4.72
+    },
+    {
+        "text": "am walking or doing anything when I'm",
+        "start": 108.24,
+        "duration": 4.159
+    },
+    {
+        "text": "not at my desk. First thing is go to",
+        "start": 110.479,
+        "duration": 3.761
+    },
+    {
+        "text": "m.ai/api.",
+        "start": 112.399,
+        "duration": 4.241
+    },
+    {
+        "text": "Now I'll click on get API key. Now I'll",
+        "start": 114.24,
+        "duration": 4.72
+    },
+    {
+        "text": "just click on generate an API key. Let's",
+        "start": 116.64,
+        "duration": 5.28
+    },
+    {
+        "text": "give it any name ATS key. So it gives me",
+        "start": 118.96,
+        "duration": 5.28
+    },
+    {
+        "text": "a key. I'll just download it so that I",
+        "start": 121.92,
+        "duration": 4.159
+    },
+    {
+        "text": "can use it. So our key is generated.",
+        "start": 124.24,
+        "duration": 3.04
+    },
+    {
+        "text": "That's the only thing which you want to",
+        "start": 126.079,
+        "duration": 3.121
+    },
+    {
+        "text": "do on the Murphy dashboard. Now we can",
+        "start": 127.28,
+        "duration": 4.0
+    },
+    {
+        "text": "go directly to the code and see how we",
+        "start": 129.2,
+        "duration": 4.72
+    },
+    {
+        "text": "built this to convert our documents to",
+        "start": 131.28,
+        "duration": 4.56
+    },
+    {
+        "text": "these podcasts using Murf AI. So I've",
+        "start": 133.92,
+        "duration": 4.399
+    },
+    {
+        "text": "created a basic Python server here in",
+        "start": 135.84,
+        "duration": 4.24
+    },
+    {
+        "text": "which I have given just one endpoint",
+        "start": 138.319,
+        "duration": 4.161
+    },
+    {
+        "text": "which is to generate a podcast from the",
+        "start": 140.08,
+        "duration": 4.64
+    },
+    {
+        "text": "given links or from the given PDF which",
+        "start": 142.48,
+        "duration": 4.24
+    },
+    {
+        "text": "I upload in the request. If it is a PDF",
+        "start": 144.72,
+        "duration": 3.68
+    },
+    {
+        "text": "file, it just takes that otherwise if it",
+        "start": 146.72,
+        "duration": 3.68
+    },
+    {
+        "text": "is a URL then it takes that and then",
+        "start": 148.4,
+        "duration": 4.72
+    },
+    {
+        "text": "finally we extract the text from the PDF",
+        "start": 150.4,
+        "duration": 4.8
+    },
+    {
+        "text": "or extract text from the URL. So these",
+        "start": 153.12,
+        "duration": 3.36
+    },
+    {
+        "text": "are the two functions which I have",
+        "start": 155.2,
+        "duration": 3.44
+    },
+    {
+        "text": "created. Now if you go to create extract",
+        "start": 156.48,
+        "duration": 4.32
+    },
+    {
+        "text": "text from PDF in this what simply what",
+        "start": 158.64,
+        "duration": 3.84
+    },
+    {
+        "text": "we are doing is we are reading the PDF",
+        "start": 160.8,
+        "duration": 3.6
+    },
+    {
+        "text": "file and we are using some Python",
+        "start": 162.48,
+        "duration": 4.24
+    },
+    {
+        "text": "libraries to actually open this PDF and",
+        "start": 164.4,
+        "duration": 4.4
+    },
+    {
+        "text": "finally get the text what we want. If",
+        "start": 166.72,
+        "duration": 3.84
+    },
+    {
+        "text": "you want to extract text from URL",
+        "start": 168.8,
+        "duration": 3.76
+    },
+    {
+        "text": "similarly what we are doing is just we",
+        "start": 170.56,
+        "duration": 3.84
+    },
+    {
+        "text": "are getting the content type and we are",
+        "start": 172.56,
+        "duration": 3.759
+    },
+    {
+        "text": "using beautiful soup which is a web",
+        "start": 174.4,
+        "duration": 4.479
+    },
+    {
+        "text": "scraper to scrape this page or URL which",
+        "start": 176.319,
+        "duration": 4.241
+    },
+    {
+        "text": "you have given to get this text but we",
+        "start": 178.879,
+        "duration": 4.08
+    },
+    {
+        "text": "cannot directly use this text because we",
+        "start": 180.56,
+        "duration": 4.48
+    },
+    {
+        "text": "want it in a summarized manner in a",
+        "start": 182.959,
+        "duration": 4.081
+    },
+    {
+        "text": "manner which we want. So I've given a",
+        "start": 185.04,
+        "duration": 4.16
+    },
+    {
+        "text": "prompt here. You can change the prompt",
+        "start": 187.04,
+        "duration": 4.64
+    },
+    {
+        "text": "to convert this text into whatever way",
+        "start": 189.2,
+        "duration": 4.399
+    },
+    {
+        "text": "you want it to. I I gave it a prompt",
+        "start": 191.68,
+        "duration": 4.0
+    },
+    {
+        "text": "that you have to create a podcast script",
+        "start": 193.599,
+        "duration": 3.601
+    },
+    {
+        "text": "with whatever things which I want to",
+        "start": 195.68,
+        "duration": 3.52
+    },
+    {
+        "text": "listen. Then simply I just feed the",
+        "start": 197.2,
+        "duration": 3.679
+    },
+    {
+        "text": "text. The text which I got from the",
+        "start": 199.2,
+        "duration": 3.2
+    },
+    {
+        "text": "previous functions which is extract text",
+        "start": 200.879,
+        "duration": 4.08
+    },
+    {
+        "text": "from PDF or URL. I just feed this text",
+        "start": 202.4,
+        "duration": 5.759
+    },
+    {
+        "text": "into MI and wait for its response. The",
+        "start": 204.959,
+        "duration": 5.84
+    },
+    {
+        "text": "response which I get I save it into a",
+        "start": 208.159,
+        "duration": 4.321
+    },
+    {
+        "text": "file or if there is an error I just",
+        "start": 210.799,
+        "duration": 3.041
+    },
+    {
+        "text": "generate the error which is generating",
+        "start": 212.48,
+        "duration": 3.119
+    },
+    {
+        "text": "the podcast script. Now once I get this",
+        "start": 213.84,
+        "duration": 3.84
+    },
+    {
+        "text": "response from Gemini in the summarize",
+        "start": 215.599,
+        "duration": 4.401
+    },
+    {
+        "text": "script. So I have now the text. Now the",
+        "start": 217.68,
+        "duration": 4.72
+    },
+    {
+        "text": "only thing remaining is to convert this",
+        "start": 220.0,
+        "duration": 4.959
+    },
+    {
+        "text": "into voice. So I create a MURF client",
+        "start": 222.4,
+        "duration": 5.28
+    },
+    {
+        "text": "with my API key which I got. And then",
+        "start": 224.959,
+        "duration": 4.881
+    },
+    {
+        "text": "what I do is just simply call this",
+        "start": 227.68,
+        "duration": 4.32
+    },
+    {
+        "text": "method which is text to speech in which",
+        "start": 229.84,
+        "duration": 4.08
+    },
+    {
+        "text": "we give the text chunk which we want to",
+        "start": 232.0,
+        "duration": 4.319
+    },
+    {
+        "text": "convert. We give the voice ID. I am",
+        "start": 233.92,
+        "duration": 4.0
+    },
+    {
+        "text": "using this voice ID. You can use any",
+        "start": 236.319,
+        "duration": 3.761
+    },
+    {
+        "text": "voice ID or you can create your own",
+        "start": 237.92,
+        "duration": 4.72
+    },
+    {
+        "text": "voices also and just feed give it that.",
+        "start": 240.08,
+        "duration": 5.359
+    },
+    {
+        "text": "I give the format of the MP3 file. And",
+        "start": 242.64,
+        "duration": 4.959
+    },
+    {
+        "text": "there are some other options to give the",
+        "start": 245.439,
+        "duration": 4.241
+    },
+    {
+        "text": "voice quality like channel type and",
+        "start": 247.599,
+        "duration": 4.161
+    },
+    {
+        "text": "sample rate. In the response, what I get",
+        "start": 249.68,
+        "duration": 4.24
+    },
+    {
+        "text": "is an audio file which is a link to the",
+        "start": 251.76,
+        "duration": 4.24
+    },
+    {
+        "text": "audio file. I can then download that",
+        "start": 253.92,
+        "duration": 4.719
+    },
+    {
+        "text": "audio file. So I'm getting that audio",
+        "start": 256.0,
+        "duration": 6.079
+    },
+    {
+        "text": "URL. I simply download that file and",
+        "start": 258.639,
+        "duration": 5.521
+    },
+    {
+        "text": "locally I'm writing a file of this",
+        "start": 262.079,
+        "duration": 4.241
+    },
+    {
+        "text": "audio. So for every chunk that I",
+        "start": 264.16,
+        "duration": 4.88
+    },
+    {
+        "text": "process, I just append that audio and it",
+        "start": 266.32,
+        "duration": 4.56
+    },
+    {
+        "text": "finally stores the file in my local",
+        "start": 269.04,
+        "duration": 3.68
+    },
+    {
+        "text": "directory which I can then use to listen",
+        "start": 270.88,
+        "duration": 4.08
+    },
+    {
+        "text": "to it anywhere I go. So I've also",
+        "start": 272.72,
+        "duration": 5.039
+    },
+    {
+        "text": "created a simple basic HTML page on",
+        "start": 274.96,
+        "duration": 5.36
+    },
+    {
+        "text": "which gives me the upload option and",
+        "start": 277.759,
+        "duration": 4.801
+    },
+    {
+        "text": "adding a URL option which I can directly",
+        "start": 280.32,
+        "duration": 4.72
+    },
+    {
+        "text": "use. Now let's see it in action. Now now",
+        "start": 282.56,
+        "duration": 5.04
+    },
+    {
+        "text": "to run it, I simply do just python",
+        "start": 285.04,
+        "duration": 6.08
+    },
+    {
+        "text": "app.py. It just starts up my server at a",
+        "start": 287.6,
+        "duration": 5.84
+    },
+    {
+        "text": "particular port. I simply go to my",
+        "start": 291.12,
+        "duration": 4.88
+    },
+    {
+        "text": "browser and open this port local host",
+        "start": 293.44,
+        "duration": 6.08
+    },
+    {
+        "text": "5000. Now on this I I can simply upload",
+        "start": 296.0,
+        "duration": 6.4
+    },
+    {
+        "text": "a PDF. So I've already download one PDF",
+        "start": 299.52,
+        "duration": 5.119
+    },
+    {
+        "text": "which I will just give it. So I have",
+        "start": 302.4,
+        "duration": 4.48
+    },
+    {
+        "text": "taken the PDF of attention is all you",
+        "start": 304.639,
+        "duration": 4.321
+    },
+    {
+        "text": "need which is the research paper which",
+        "start": 306.88,
+        "duration": 4.0
+    },
+    {
+        "text": "created the architecture of transformers",
+        "start": 308.96,
+        "duration": 6.079
+    },
+    {
+        "text": "or the LLMs that are there today. So I",
+        "start": 310.88,
+        "duration": 6.48
+    },
+    {
+        "text": "it is a 2017 research paper and I think",
+        "start": 315.039,
+        "duration": 4.801
+    },
+    {
+        "text": "everyone should read it. So I click on",
+        "start": 317.36,
+        "duration": 5.2
+    },
+    {
+        "text": "just generate podcast. So as you'll see",
+        "start": 319.84,
+        "duration": 5.12
+    },
+    {
+        "text": "it is generating a podcast. It takes",
+        "start": 322.56,
+        "duration": 4.56
+    },
+    {
+        "text": "some time. So it it will do all the",
+        "start": 324.96,
+        "duration": 4.0
+    },
+    {
+        "text": "steps. First it will extract the text.",
+        "start": 327.12,
+        "duration": 4.4
+    },
+    {
+        "text": "Feed it to Gemini to get a summary or a",
+        "start": 328.96,
+        "duration": 4.64
+    },
+    {
+        "text": "script. Read that script into Murfi to",
+        "start": 331.52,
+        "duration": 4.32
+    },
+    {
+        "text": "get final audio which you want to",
+        "start": 333.6,
+        "duration": 5.2
+    },
+    {
+        "text": "listen. So as you can see our framework",
+        "start": 335.84,
+        "duration": 6.48
+    },
+    {
+        "text": "is working. It's it got the text it",
+        "start": 338.8,
+        "duration": 5.52
+    },
+    {
+        "text": "converted it to script and now it is",
+        "start": 342.32,
+        "duration": 4.24
+    },
+    {
+        "text": "processing chunk by chunk giving these",
+        "start": 344.32,
+        "duration": 4.319
+    },
+    {
+        "text": "audio. So as you can see we get the",
+        "start": 346.56,
+        "duration": 4.72
+    },
+    {
+        "text": "audio URL and we just download that and",
+        "start": 348.639,
+        "duration": 4.801
+    },
+    {
+        "text": "we process the next chunk. So finally",
+        "start": 351.28,
+        "duration": 4.72
+    },
+    {
+        "text": "our request is complete. The file is now",
+        "start": 353.44,
+        "duration": 4.96
+    },
+    {
+        "text": "saved. Now let's open this. And you can",
+        "start": 356.0,
+        "duration": 4.4
+    },
+    {
+        "text": "see that podcast is created. One I",
+        "start": 358.4,
+        "duration": 4.079
+    },
+    {
+        "text": "created yesterday. Another one is",
+        "start": 360.4,
+        "duration": 4.239
+    },
+    {
+        "text": "created today. So let's open this and",
+        "start": 362.479,
+        "duration": 4.56
+    },
+    {
+        "text": "see how does it sound.",
+        "start": 364.639,
+        "duration": 5.361
+    },
+    {
+        "text": "Welcome back to Decoding AI, the podcast",
+        "start": 367.039,
+        "duration": 4.801
+    },
+    {
+        "text": "that breaks down the complex world of",
+        "start": 370.0,
+        "duration": 4.0
+    },
+    {
+        "text": "artificial intelligence into bite-sized,",
+        "start": 371.84,
+        "duration": 4.96
+    },
+    {
+        "text": "easily digestible chunks. Today we're",
+        "start": 374.0,
+        "duration": 4.639
+    },
+    {
+        "text": "diving head first into a groundbreaking",
+        "start": 376.8,
+        "duration": 3.36
+    },
+    {
+        "text": "paper that shook the foundations of",
+        "start": 378.639,
+        "duration": 2.721
+    },
+    {
+        "text": "sequence transduction.",
+        "start": 380.16,
+        "duration": 3.28
+    },
+    {
+        "text": "Now you can use this for any purposes.",
+        "start": 381.36,
+        "duration": 4.32
+    },
+    {
+        "text": "You can also automate content creation",
+        "start": 383.44,
+        "duration": 4.479
+    },
+    {
+        "text": "from this. You can create YouTube",
+        "start": 385.68,
+        "duration": 4.16
+    },
+    {
+        "text": "scripts and publish it. And you don't",
+        "start": 387.919,
+        "duration": 3.761
+    },
+    {
+        "text": "even have to do any manual thing. You",
+        "start": 389.84,
+        "duration": 4.24
+    },
+    {
+        "text": "can create an AI agent which does this.",
+        "start": 391.68,
+        "duration": 4.72
+    },
+    {
+        "text": "What you simply need to do is just like",
+        "start": 394.08,
+        "duration": 4.72
+    },
+    {
+        "text": "maybe search research a topic, create a",
+        "start": 396.4,
+        "duration": 4.48
+    },
+    {
+        "text": "script from it of a YouTube video and",
+        "start": 398.8,
+        "duration": 4.239
+    },
+    {
+        "text": "just create the voice from it. Now for",
+        "start": 400.88,
+        "duration": 3.759
+    },
+    {
+        "text": "the visuals you can use different tools",
+        "start": 403.039,
+        "duration": 3.201
+    },
+    {
+        "text": "which are there so that maybe we can",
+        "start": 404.639,
+        "duration": 3.201
+    },
+    {
+        "text": "explore in some other video. You can use",
+        "start": 406.24,
+        "duration": 4.079
+    },
+    {
+        "text": "this Murphy API to convert any text to",
+        "start": 407.84,
+        "duration": 4.799
+    },
+    {
+        "text": "speech or even your speech. I have made",
+        "start": 410.319,
+        "duration": 4.0
+    },
+    {
+        "text": "this code open source so you can use it.",
+        "start": 412.639,
+        "duration": 3.361
+    },
+    {
+        "text": "Just get your API key and you can start",
+        "start": 414.319,
+        "duration": 4.0
+    },
+    {
+        "text": "using it and it has a pretty generous",
+        "start": 416.0,
+        "duration": 4.4
+    },
+    {
+        "text": "free tier so that you can try it out",
+        "start": 418.319,
+        "duration": 5.44
+    },
+    {
+        "text": "both in Gemini and Murf.ai. So uh link",
+        "start": 420.4,
+        "duration": 5.28
+    },
+    {
+        "text": "to the code is in the description of",
+        "start": 423.759,
+        "duration": 4.081
+    },
+    {
+        "text": "this YouTube video. Also the link to the",
+        "start": 425.68,
+        "duration": 4.48
+    },
+    {
+        "text": "Murfi API docs is in the description.",
+        "start": 427.84,
+        "duration": 3.44
+    },
+    {
+        "text": "Let me know your thoughts in the",
+        "start": 430.16,
+        "duration": 3.68
+    },
+    {
+        "text": "comments.",
+        "start": 431.28,
+        "duration": 2.56
+    }
+]
