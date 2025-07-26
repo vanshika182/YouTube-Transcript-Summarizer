@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+venv310/  # Your specific virtual environment identified in the error
+
+# Compiled Python files and cache directories
+*.pyc
+__pycache__/
+
+# IDE and Operating System specific files
+.idea/          # For PyCharm or IntelliJ IDEA
+.vscode/        # For VS Code
+*.log           # Log files
+.DS_Store       # macOS specific desktop services store
+Thumbs.db       # Windows thumbnail cache
+
+# Large files/directories that should never be tracked (e.g., downloaded models, data)
+# Be very careful here! Only add files/folders that are *not* part of your source code
+# Example: If you manually downloaded a huge T5 model file into a 'models/' folder:
+# models/
+# If your summaries are saved to a 'summaries/' folder:
+# summaries/
