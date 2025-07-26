@@ -23,7 +23,7 @@ Follow these steps to set up the project on your local machine.
 2.  **Create and activate a virtual environment (highly recommended):**
 3.  **Install dependencies:**
     With your virtual environment activated, install all required Python packages by using the following command:
-      pip install -r requirements.txt
+         pip install -r requirements.txt
 
 ## Usage
 
