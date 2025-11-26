@@ -13,7 +13,7 @@ Developed a Python-based tool designed to enhance content accessibility and save
 
 * **Python 3.10.9**
 * **youtube-transcript-api**: For transcript extraction.
-* **NLP (TextRank Algorithm)**: For text summarization.
+* **NLP (T5 small model)**: For text summarization.
 
 ## Setup
 
